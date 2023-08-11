@@ -1,7 +1,7 @@
 import requests
 import yaml
 
-with open("config.yaml", "r") as f:
+with open("config.yaml", "r", encoding="UTF-8") as f:
     d = yaml.safe_load(f)
 
 def auth_admin():
