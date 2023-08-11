@@ -1,0 +1,14 @@
+username: GB202302841a64
+password: d25f79fb18
+url_auth: https://test-stand.gb.ru/gateway/login
+X-Auth-Token: 7d2f198373b5d0e788c97e02927b2d4f
+username1: Andrey5
+password1: 284df5d31d
+url_posts: https://test-stand.gb.ru/api/posts
+user_token: fe79d0141e6bfda48b0a8b145ba8404f
+url_post: https://test-stand.gb.ru/api/posts?owner=notMe
+owner: notMe
+url_create_post: https://test-stand.gb.ru/api/posts
+title: testpost1
+description: song
+content: In the Forest Raised a Christmas Tree
