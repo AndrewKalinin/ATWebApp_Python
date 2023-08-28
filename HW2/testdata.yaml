@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+implicitly_wait: 3
+username: Andrey5
+password: 284df5d31d
