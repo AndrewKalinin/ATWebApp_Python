@@ -1,0 +1,33 @@
+2023-08-30 16:32:25 INFO ====== WebDriver manager ======
+2023-08-30 16:32:25 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 16:32:26 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 16:32:26 INFO There is no [win64] chromedriver "116.0.5845.111" for browser google-chrome "116.0.5845.111" in cache
+2023-08-30 16:32:26 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 16:32:26 INFO WebDriver version 116.0.5845.96 selected
+2023-08-30 16:32:26 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-30 16:32:26 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-30 16:32:26 INFO Driver downloading response is 200
+2023-08-30 16:32:26 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 16:32:27 INFO Driver has been saved in cache [C:\Users\leonk\.wdm\drivers\chromedriver\win64\116.0.5845.111]
+2023-08-30 16:32:27 INFO Test1 Starting
+2023-08-30 16:32:27 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2023-08-30 16:32:27 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2023-08-30 16:32:27 INFO Click login button
+2023-08-30 16:32:27 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-08-30 16:32:27 INFO Test2 Starting
+2023-08-30 16:32:27 INFO Send Andrey5 to element //*[@id="login"]/div[1]/label/input
+2023-08-30 16:32:27 INFO Send 284df5d31d to element //*[@id="login"]/div[2]/label/input
+2023-08-30 16:32:27 INFO Click login button
+2023-08-30 16:32:27 INFO test 3 Starting
+2023-08-30 16:32:27 INFO Creating a new post
+2023-08-30 16:32:27 INFO Filling in field: title
+2023-08-30 16:32:28 INFO Filling in field: description
+2023-08-30 16:32:28 INFO Filling in field: content
+2023-08-30 16:32:28 INFO Checking new post...
+2023-08-30 16:32:28 INFO test 4 Starting
+2023-08-30 16:32:28 INFO Click contact button
+2023-08-30 16:32:28 INFO Filling in field: Your name
+2023-08-30 16:32:28 INFO Filling in field: Your email
+2023-08-30 16:32:28 INFO Filling in field: Content
+2023-08-30 16:32:28 INFO Click 'CONTACT US' button
+2023-08-30 16:32:28 INFO Appearance pop-up alert
