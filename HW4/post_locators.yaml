@@ -1,0 +1,7 @@
+xpath:
+  LOCATOR_ADD_POST: //*[@id="create-btn"]
+  LOCATOR_TITLE: //*[@id="create-item"]/div/div/div[1]/div/label/input
+  LOCATOR_DESCRIPTION: //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+  LOCATOR_CONTENT: //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+  LOCATOR_CREATE_POST: //*[@id="create-item"]/div/div/div[7]/div/button/span
+  LOCATOR_CHECK_POST: //*[@id="app"]/main/div/div[1]/h1
